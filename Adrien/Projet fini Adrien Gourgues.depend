@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1674436154 source:c:\users\adrie\documents\c++\popo\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<map>
+	"Parking.h"
+
+1674461937 c:\users\adrie\documents\c++\popo\include\parking.h
+	<iostream>
+	<string>
+	<ctime>
+	<map>
+	"Voiture.h"
+
+1674462271 c:\users\adrie\documents\c++\popo\include\voiture.h
+	<iostream>
+	<string>
+	<ctime>
+	<map>
+
+1674433711 source:c:\users\adrie\documents\c++\popo\src\parking.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<map>
+	"Voiture.h"
+
+1674436111 source:c:\users\adrie\documents\c++\popo\src\voiture.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<map>
+
